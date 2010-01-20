@@ -1,0 +1,2 @@
+Hi friends,
+           I am Rupeshit Patekar.This is the GWT application in which I follow MVC pattern to create the pdf file using iText and after that display it using GWT frame.For this I design two widget first widget is for button and another widget is for the frame in which pdf is going to display.This is best example for the new programmer who want to understand the use of MVC pattern and use of iText in GWt web application.
