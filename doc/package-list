@@ -1,0 +1,6 @@
+com.wissen.itext.client
+com.wissen.itext.client.controller
+com.wissen.itext.client.observers
+com.wissen.itext.client.services
+com.wissen.itext.client.widgets
+com.wissen.itext.server.impl
